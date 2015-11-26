@@ -1,0 +1,16 @@
+At Nov 25, 2015 8:55:20 PM Client B said: Woot!
+At Nov 25, 2015 8:55:20 PM Client A received: Woot!
+At Nov 25, 2015 8:55:23 PM Client A said: Blah!
+At Nov 25, 2015 8:55:23 PM Client B received: Blah!
+At Nov 25, 2015 8:55:25 PM Client B said: Oh yes!
+At Nov 25, 2015 8:55:25 PM Client A received: Oh yes!
+At Nov 25, 2015 8:55:30 PM Client B said: How are you?
+At Nov 25, 2015 8:55:30 PM Client A received: How are you?
+At Nov 25, 2015 8:55:31 PM Client A said: Oh no!
+At Nov 25, 2015 8:55:31 PM Client B received: Oh no!
+At Nov 25, 2015 8:55:35 PM Client B said: The cake is not a lie
+At Nov 25, 2015 8:55:35 PM Client A received: The cake is not a lie
+At Nov 25, 2015 8:55:39 PM Client A said: How's it going, eh?
+At Nov 25, 2015 8:55:39 PM Client B received: How's it going, eh?
+At Nov 25, 2015 8:55:47 PM Client A said: The cake is a lie!
+At Nov 25, 2015 8:55:47 PM Client B received: The cake is a lie!
